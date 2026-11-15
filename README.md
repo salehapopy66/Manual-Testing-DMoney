@@ -23,3 +23,17 @@ The Main objectives of this project are
 - Re-test fixed defects, record the re-test result, and update the defect status. Run relevant regression checks for affected areas.
 - Summarize executed, passed, failed, and blocked tests, along with open defects and risks, before reporting completion.
 
+## Testing Approach
+- Manual Testing
+- Exploratory Testing
+- Functional Testing
+- Positive Testing
+- Negative Testing
+- Boundary Value Analysis
+- Business Rule Validation
+- Role-Based Testing
+- Authorization Testing
+- UI Testing
+- Defect Reporting
+- Requirement Analysis
+
