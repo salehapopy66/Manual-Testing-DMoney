@@ -19,7 +19,7 @@ The Main objectives of this project are
 - Prepare the required test environment, user accounts, test data, and access. Record any environment or data limitations.
 - Execute the account and transaction scenarios in the relevant test materials. Follow each documented step and compare the actual result with the expected result.
 - Record the outcome for each case in the source workbook or document. Mark each execution as Pass, Fail, or Blocked, and include evidence or a clear note where appropriate.
-- For a failure, create a defect in DMoney_Bug Report.xlsx. Include a concise title, prerequisites, reproducible steps, expected result, actual result, severity/priority, environment, and evidence. Link it to the related test case when possible.
+- For a failure, create a defect in `DMoney_Bug Report.xlsx`. Include a concise title, prerequisites, reproducible steps, expected result, actual result, severity/priority, environment, and evidence. Link it to the related test case when possible.
 - Re-test fixed defects, record the re-test result, and update the defect status. Run relevant regression checks for affected areas.
 - Summarize executed, passed, failed, and blocked tests, along with open defects and risks, before reporting completion.
 
